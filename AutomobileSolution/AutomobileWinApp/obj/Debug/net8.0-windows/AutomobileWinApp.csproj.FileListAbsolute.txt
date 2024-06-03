@@ -1,0 +1,3 @@
+C:\Users\Tien Anh\Downloads\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.exe
+C:\Users\Tien Anh\Downloads\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.dll
+C:\Users\Tien Anh\Downloads\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileLibrary.dll
